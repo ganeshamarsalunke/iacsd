@@ -1,0 +1,39 @@
+sudo apt install
+Sudo apt update
+
+sudo apt install docker.io
+Y
+
+git clone (repo link.get)
+ls
+
+cd iacsd
+ 
+........
+
+sudo docker build -t iacsd2 .
+
+sudo docker images
+
+sudo docker run -d -p 1234(any):7667(EXPOSE) iacsd2
+
+sudo docker ps
+.......
+IP:(any)
+
+..........................................................
+git clone (repo link)
+..
+
+git status
+
+git add .
+
+git status
+
+git commit -m "abc"
+
+git push 
+
+Login git hub acc
+
